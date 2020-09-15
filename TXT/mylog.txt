@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Descripton
+# LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  60 L02 ZOOM (OS meeting)
+ZCZC W00  15 L01 Scele Related (doing OS task)
+ZCZC W00  15 L00 General Log (doing log for w00)
