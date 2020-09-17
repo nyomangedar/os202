@@ -1,7 +1,6 @@
 ---
 ---
 
-Here is my page.
 
 
 
