@@ -8,3 +8,6 @@ ZCZC W00 200 L02 ZOOM
 ZCZC W00  30 L01 Scele Related
 ZCZC W00  15 L00 General Log
 ZCZC W00  20 L99 Other
+ZCZC W00 300 L99 Other
+ZCZC W00 180 L01 Scele Related
+ZCZC W00  15 L00 General Log
