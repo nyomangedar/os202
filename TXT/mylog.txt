@@ -11,3 +11,7 @@ ZCZC W00  20 L99 Other
 ZCZC W00 300 L99 Other
 ZCZC W00 180 L01 Scele Related
 ZCZC W00  15 L00 General Log
+ZCZC W02  05 L05 GSGS OS assigment
+ZCZC W02  15 L27 Feeding my dog and fish
+ZCZC W02  20 L12 Doing week 2
+ZCZC W02  90 L02 ZOOM
