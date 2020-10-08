@@ -1,9 +1,4 @@
-#!/bin/bash
-# nyomangedar
-# Thu Oct 1 09:28:30 WIB 2020
-# PALSU BANGET SEKALI UBAH
-
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
