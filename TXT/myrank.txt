@@ -5,3 +5,6 @@ ZCZC W00 mhanif-82
 ZCZC W01 mhanif-82
 ZCZC W01 nyomangedar
 ZCZC W01 primogu
+ZCZC W02 mhanif-82
+ZCZC W02 nyomangedar
+ZCZC W02 nmhlog
