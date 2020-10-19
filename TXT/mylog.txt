@@ -18,3 +18,7 @@ ZCZC W02  90 L02 ZOOM
 ZCZC W03 180 L01 Scele Related
 ZCZC W03  15 L00 General Log
 ZCZC W03  90 L99 Other
+ZCZC W04 200 L01 Scele Related
+ZCZC W04  90 L12 Doing week 3
+ZCZC W04  15 L00 General Log
+ZCZC W04 180 L99 Other
