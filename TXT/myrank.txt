@@ -17,3 +17,6 @@ ZCZC W04 nmhlog
 ZCZC W05 nyomangedar
 ZCZC W05 Abimanyu-TheProgrammer
 ZCZC W05 mhanif-82
+ZCZC W06 mhanif-82
+ZCZC W06 alifyandra
+ZCZC W06 nyomangedar
