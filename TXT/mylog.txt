@@ -34,3 +34,6 @@ ZCZC W07  20 L01 Scele Related
 ZCZC W07  30 L12 Doing week 7
 ZCZC W07  10 L00 General Log
 ZCZC W07  65 L99 Other
+ZCZC W08 180 L12 Doing week 8
+ZCZC W08  10 L00 General Log
+ZCZC W08  60 L99 Other
